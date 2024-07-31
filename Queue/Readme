@@ -1,0 +1,5 @@
+- CollectionsDeque: Proporciona una cola doblemente terminada que permite agregar y quitar elementos de ambos extremos de manera eficiente.
+
+- QueueQueue: Implementa una cola FIFO (First-In-First-Out) con operaciones seguras para subprocesos.
+
+- PriorityQueue: Implementa una cola de prioridad donde los elementos son removidos en orden basado en su prioridad.
